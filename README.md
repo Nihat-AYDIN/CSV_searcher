@@ -1,5 +1,7 @@
 # CSV Parser Application
 
+![GitHub Gif](github.gif)
+
 Welcome to the CSV Parser application! This simple yet powerful tool allows you to parse CSV files and retrieve specific values based on the provided row and column indices.
 
 ## Purpose
